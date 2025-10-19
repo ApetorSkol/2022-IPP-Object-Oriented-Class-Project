@@ -1,0 +1,13 @@
+Archive:  xslivk03.zip
+  inflating: interpret.py            
+  inflating: Readme2.pdf             
+ extracting: test.php                
+usage: interpret.py [-h] [--source SOURCE] [--input INPUT]
+
+Program interprets XML code
+
+optional arguments:
+  -h, --help       show this help message and exit
+  --source SOURCE  source XML file
+  --input INPUT    file with inputs for interpret
+./is_it_ok.sh: line 206: php8.1: command not found
